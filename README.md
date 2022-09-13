@@ -1,5 +1,6 @@
 # Introduction to Python and R - Workshop 1 - Foundation
 
+First workshop on the basics of Python.
 ### Introduction to Python
 
 * **Hands-on**
