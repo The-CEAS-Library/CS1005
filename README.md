@@ -1,7 +1,7 @@
-# Workshop 1: Foundations - Introduction to Python and R
+# Workshops: Introduction to Python and R
 
-First workshop on the basics of Python.
-### Introduction to Python Part-1 and Part-2
+Workshops on the basics of Python and R.
+
   
 
 **Note**: Please click **'launch binder'** button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations. <br>
